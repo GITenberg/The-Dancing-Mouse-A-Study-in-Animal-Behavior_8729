@@ -1,0 +1,25 @@
+_repo: The-Dancing-Mouse-A-Study-in-Animal-Behavior_8729
+creator:
+  author:
+    agent_name: Yerkes, Robert Mearns
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '2864'
+    url: http://www.gutenberg.org/2009/agents/2864
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Yerkes
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dancing mice'
+- !lcc 'QL'
+- !lcsh 'Animal behavior'
+title: 'The Dancing Mouse: A Study in Animal Behavior'
+url: http://www.gutenberg.org/ebooks/8729
